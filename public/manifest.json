@@ -1,6 +1,6 @@
 {
-    "name": "Hello World PWA",
-    "short_name": "Hi",
+    "name": "Hello PWA",
+    "short_name": "PWA",
     "icons": [{
       "src": "icons/PWA.png",
         "sizes": "500x500",
